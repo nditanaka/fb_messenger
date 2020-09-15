@@ -1,8 +1,4 @@
-Facebook Messenger clone app built with React and Firebase, based on Clever Programmer video tutorial.
-
-## Demo
-
-https://agovah.github.io/react-messenger-demo/
+Facebook Messenger clone app built with React and Firebase
 
 ## Usage
 
